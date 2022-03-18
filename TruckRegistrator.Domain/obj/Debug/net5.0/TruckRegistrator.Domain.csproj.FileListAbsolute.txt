@@ -1,0 +1,16 @@
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\bin\Debug\net5.0\TruckRegistrator.Domain.exe
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\bin\Debug\net5.0\TruckRegistrator.Domain.deps.json
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\bin\Debug\net5.0\TruckRegistrator.Domain.runtimeconfig.json
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\bin\Debug\net5.0\TruckRegistrator.Domain.runtimeconfig.dev.json
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\bin\Debug\net5.0\TruckRegistrator.Domain.dll
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\bin\Debug\net5.0\TruckRegistrator.Domain.pdb
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\obj\Debug\net5.0\TruckRegistrator.Domain.csproj.AssemblyReference.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\obj\Debug\net5.0\TruckRegistrator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\obj\Debug\net5.0\TruckRegistrator.Domain.AssemblyInfoInputs.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\obj\Debug\net5.0\TruckRegistrator.Domain.AssemblyInfo.cs
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\obj\Debug\net5.0\TruckRegistrator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\obj\Debug\net5.0\TruckRegistrator.Domain.dll
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\obj\Debug\net5.0\refint\TruckRegistrator.Domain.dll
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\obj\Debug\net5.0\TruckRegistrator.Domain.pdb
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\obj\Debug\net5.0\TruckRegistrator.Domain.genruntimeconfig.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegistrator.Domain\obj\Debug\net5.0\ref\TruckRegistrator.Domain.dll

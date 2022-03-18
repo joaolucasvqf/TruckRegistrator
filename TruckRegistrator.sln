@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckRegistrator.Domain", "TruckRegistrator.Domain\TruckRegistrator.Domain.csproj", "{770058D0-19E8-4CE5-8D25-92D02BE85A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckRegsitrator.Application", "TruckRegsitrator.Application\TruckRegsitrator.Application.csproj", "{89D15187-CCE5-4E42-B695-3872C7120D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckRegostrator.Infrastructure", "TruckRegostrator.Infrastructure\TruckRegostrator.Infrastructure.csproj", "{B855E508-42AB-41E4-B8BF-AC0B79B59249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckRegistrator.WebApi", "TruckRegistrator.WebApi\TruckRegistrator.WebApi.csproj", "{F96C9E85-DF48-44F1-B5B7-A60A4621399D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckRegistrator.Test", "TruckRegistrator.Test\TruckRegistrator.Test.csproj", "{06CAD76B-A70D-42BF-8F3D-2B4D19B07128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770058D0-19E8-4CE5-8D25-92D02BE85A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770058D0-19E8-4CE5-8D25-92D02BE85A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770058D0-19E8-4CE5-8D25-92D02BE85A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770058D0-19E8-4CE5-8D25-92D02BE85A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D15187-CCE5-4E42-B695-3872C7120D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D15187-CCE5-4E42-B695-3872C7120D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D15187-CCE5-4E42-B695-3872C7120D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D15187-CCE5-4E42-B695-3872C7120D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B855E508-42AB-41E4-B8BF-AC0B79B59249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B855E508-42AB-41E4-B8BF-AC0B79B59249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B855E508-42AB-41E4-B8BF-AC0B79B59249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B855E508-42AB-41E4-B8BF-AC0B79B59249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96C9E85-DF48-44F1-B5B7-A60A4621399D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96C9E85-DF48-44F1-B5B7-A60A4621399D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96C9E85-DF48-44F1-B5B7-A60A4621399D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96C9E85-DF48-44F1-B5B7-A60A4621399D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CAD76B-A70D-42BF-8F3D-2B4D19B07128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CAD76B-A70D-42BF-8F3D-2B4D19B07128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CAD76B-A70D-42BF-8F3D-2B4D19B07128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CAD76B-A70D-42BF-8F3D-2B4D19B07128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0940F92A-C6DC-4384-B98A-9CA25E3811C5}
+	EndGlobalSection
+EndGlobal

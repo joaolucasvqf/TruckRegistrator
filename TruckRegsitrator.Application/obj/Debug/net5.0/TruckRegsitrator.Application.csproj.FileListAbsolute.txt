@@ -1,0 +1,16 @@
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\bin\Debug\net5.0\TruckRegsitrator.Application.exe
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\bin\Debug\net5.0\TruckRegsitrator.Application.deps.json
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\bin\Debug\net5.0\TruckRegsitrator.Application.runtimeconfig.json
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\bin\Debug\net5.0\TruckRegsitrator.Application.runtimeconfig.dev.json
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\bin\Debug\net5.0\TruckRegsitrator.Application.dll
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\bin\Debug\net5.0\TruckRegsitrator.Application.pdb
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\obj\Debug\net5.0\TruckRegsitrator.Application.csproj.AssemblyReference.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\obj\Debug\net5.0\TruckRegsitrator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\obj\Debug\net5.0\TruckRegsitrator.Application.AssemblyInfoInputs.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\obj\Debug\net5.0\TruckRegsitrator.Application.AssemblyInfo.cs
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\obj\Debug\net5.0\TruckRegsitrator.Application.csproj.CoreCompileInputs.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\obj\Debug\net5.0\TruckRegsitrator.Application.dll
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\obj\Debug\net5.0\refint\TruckRegsitrator.Application.dll
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\obj\Debug\net5.0\TruckRegsitrator.Application.pdb
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\obj\Debug\net5.0\TruckRegsitrator.Application.genruntimeconfig.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegsitrator.Application\obj\Debug\net5.0\ref\TruckRegsitrator.Application.dll

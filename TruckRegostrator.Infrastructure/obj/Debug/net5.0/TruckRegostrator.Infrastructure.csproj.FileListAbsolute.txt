@@ -1,0 +1,16 @@
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\bin\Debug\net5.0\TruckRegostrator.Infrastructure.exe
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\bin\Debug\net5.0\TruckRegostrator.Infrastructure.deps.json
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\bin\Debug\net5.0\TruckRegostrator.Infrastructure.runtimeconfig.json
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\bin\Debug\net5.0\TruckRegostrator.Infrastructure.runtimeconfig.dev.json
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\bin\Debug\net5.0\TruckRegostrator.Infrastructure.dll
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\bin\Debug\net5.0\TruckRegostrator.Infrastructure.pdb
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\obj\Debug\net5.0\TruckRegostrator.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\obj\Debug\net5.0\TruckRegostrator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\obj\Debug\net5.0\TruckRegostrator.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\obj\Debug\net5.0\TruckRegostrator.Infrastructure.AssemblyInfo.cs
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\obj\Debug\net5.0\TruckRegostrator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\obj\Debug\net5.0\TruckRegostrator.Infrastructure.dll
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\obj\Debug\net5.0\refint\TruckRegostrator.Infrastructure.dll
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\obj\Debug\net5.0\TruckRegostrator.Infrastructure.pdb
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\obj\Debug\net5.0\TruckRegostrator.Infrastructure.genruntimeconfig.cache
+C:\Users\João Lucas\source\repos\TruckRegistrator\TruckRegostrator.Infrastructure\obj\Debug\net5.0\ref\TruckRegostrator.Infrastructure.dll
